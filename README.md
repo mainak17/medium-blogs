@@ -1,5 +1,5 @@
 # medium-blogs
-My Medium Blogs
+Sharing My Learnings on Medium
 
 ## Checkout My Blogs
 
